@@ -3,7 +3,7 @@ package org.ichiru.client_version;
 public class getVersionName {
     public static String main(int protocolVersion) {
         switch (protocolVersion) {
-            case 766: return "1.20.5";
+            case 766: return "1.20.6";
             case 765: return "1.20.4";
             case 764: return "1.20.2";
             case 763: return "1.20.1";
