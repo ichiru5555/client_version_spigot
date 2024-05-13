@@ -37,6 +37,14 @@ public class getVersionName {
             case 316: return "1.11.2";
             case 315: return "1.11";
             case 210: return "1.10.2";
+            case 110: return "1.9.4";
+            case 109: return "1.9.2";
+            case 108: return "1.9.1";
+            case 107: return "1.9";
+            case 47: return "1.8.9";
+            case 5: return "1.7.10";
+            case 4: return "1.7.5";
+            case 3: return "1.7.1";
             default: return "Unknown";
         }
     }
